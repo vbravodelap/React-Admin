@@ -9,9 +9,9 @@ export class Header extends Component {
                 {/* Logo */}
                 <Link to='/' className="logo">
                 {/* mini logo for sidebar mini 50x50 pixels */}
-                <span className="logo-mini"><b>A</b>LT</span>
+                <span className="logo-mini"><b>I</b>M</span>
                 {/* logo for regular state and mobile devices */}
-                <span className="logo-lg"><b>Admin</b>LTE</span>
+                <span className="logo-lg"><b>Informe</b>Mensual</span>
                 </Link>
                 {/* Header Navbar */}
                 <nav className="navbar navbar-static-top" role="navigation">

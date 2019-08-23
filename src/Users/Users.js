@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Content from '../Layout/Content';
 
 export class Users extends Component {
     render() {
@@ -10,7 +9,7 @@ export class Users extends Component {
                     <h3 className="box-title">Listado de usuarios</h3>
                 </div>
 
-                <div className="box-body">
+                <div className="box-body table-responsive">
                     <table className="table table-bordered table-striped table-hover">
                         <thead>
 
